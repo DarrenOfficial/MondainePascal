@@ -9,5 +9,7 @@ begin
     writeln('This is some text for the sixth line of the hello world');
     writeln('This is some text for the seventh line of the hello world');
     writeln('This is some text for the eighth line of the hello world');
+    sleep 5000;
+    Clrscr;
     readln;
 end.
